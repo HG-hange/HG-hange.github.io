@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hg-hange.github.io</id>
     <title>HG_hange</title>
-    <updated>2020-07-23T06:34:32.023Z</updated>
+    <updated>2020-07-23T06:38:08.887Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hg-hange.github.io"/>
     <link rel="self" href="https://hg-hange.github.io/atom.xml"/>
