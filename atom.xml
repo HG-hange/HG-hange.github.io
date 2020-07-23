@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hg-hange.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-07-23T06:22:38.593Z</updated>
+    <title>HG_hange</title>
+    <updated>2020-07-23T06:24:36.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hg-hange.github.io"/>
     <link rel="self" href="https://hg-hange.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>HG_hange的个人网站</subtitle>
     <logo>https://hg-hange.github.io/images/avatar.png</logo>
     <icon>https://hg-hange.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, HG_hange</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://hg-hange.github.io/post/hello-gridea/</id>
